@@ -1,0 +1,5 @@
+git init
+git remote add origin <https://hack4Her@dev.azure.com/hack4Her/DreamWare/_git/DreamWare>
+git add .
+git commit -m "Initial commit"
+git push -u origin master
